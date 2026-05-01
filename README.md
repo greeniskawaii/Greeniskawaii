@@ -6,7 +6,7 @@ I want to try out coding! And some stuff like that as a person who tries new thi
 𝚂𝚘𝚘 𝚞𝚑𝚖 𝚝𝚒𝚙𝚜 𝚙𝚕𝚎𝚊𝚜𝚎!
 
 * 🧠  I'm currently learning 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
-* 💬  Ask me about Guys.. I'm the Grinch.. Shh dont tell anybody
+* 💬  Ask me anything  Guys.. I'm the Grinch.. Shh dont tell anybody
 
 <p align="left">
 <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/Greeniskawaii?logo=github&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />## Hi there 👋
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />## aniya grr.. tara grr >< ! 
 
 <!--
 **greeniskawaii/Greeniskawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
